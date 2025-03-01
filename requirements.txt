@@ -1,0 +1,10 @@
+fastapi==0.95.0
+uvicorn==0.22.0
+sqlalchemy==1.4.46
+databases==0.5.5
+asyncpg==0.27.0
+transformers==4.29.2
+torch==2.0.0+cpu #(or appropriate CUDA build)
+gradio==4.44.1
+slowapi==0.1.4
+requests
